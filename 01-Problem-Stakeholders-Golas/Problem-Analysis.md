@@ -18,3 +18,4 @@ The college wants to replace this with a central online booking system to stream
 | :-----------:| :-----------------------------:|:--------------------------------------------------------------------------------:|
 | **Students** | Primary users booking support  | Easy online booking, clear service choices, live time slots, and email reminders.|
 | **Support Staff**|Advisors and tutors         | Control over their availability, a clean daily schedule view                     |                                                           
+| **Department Leads**                          |                                                                                  |
