@@ -1,33 +1,35 @@
-# 2. Requirements-anaylsis
+# 2. Requirements Catalogue
 
-## 2.1 What the System Must Do (Functional Requirements)
+## 2.1 Functional Requirements
 
-## User Accounts & Login
-1. Students and staff must be able to log in using their college email and password.
-2. The system must show different options on the menu depending on if you log in as a student, staff member, or manager.
+### Accounts
+* Log in using college email and password.
+* Show student or staff menu options based on account type.
 
-## Booking Appointments
-3. Pick a support service from a dropdown (like Math Help, Writing, or Careers).
-4. View open times for a staff member before picking a date.
-5. Book a time slot, select in-person or online, and add a short note.
-6. View past and upcoming bookings on a personal dashboard.
-7. Cancel an upcoming booking up to 2 hours before it starts.
+### Bookings
+* Pick a support service (Math Help, Writing, Careers).
+* View staff availability before selecting a slot.
+* Book a slot, pick in-person or online, and add a quick note.
+* Check past and upcoming meetings on a dashboard.
+* Cancel a booking up to 2 hours before the start time.
 
- ### Staff Features
-8. Set and edit weekly available hours for student bookings.
-9. lock out busy times or leave days so no one can book them.
-10. View a daily list of scheduled student appointments.
-11. Search for a specific student booking by name or ID.
+### Staff Options
+* Update weekly available hours for student bookings.
+* Block off busy times or leave days.
+* View daily list of scheduled student appointments.
+* Search bookings by student name or ID.
 
-### Notifications & Links
-12. Send an instant confirmation email after a slot is booked.
-13. Send an automated reminder email 24 hours before the meeting.
-14. Include an MS Teams meeting link in the email if online is selected.
+### Emails & Links
+* Send confirmation email after a booking is made.
+* Send reminder email 24 hours before the meeting.
+* Attach an MS Teams link if online meeting is picked.
+
+## 2.2 Non-Functional Requirements
 
 ### Usability & Speed
-15. Pages must look clear and work properly on both phones and laptops.
-16. Search results and time slots should load within 2 seconds.
+* Pages must fit well on mobile and desktop screens.
+* Searches and booking pages should load within 2 seconds.
 
-### Security & Access
-17. Encrypt passwords before storing them in the database.
-18. Restrict staff so they can only view student notes for their own booked meetings.
+### Data Security
+* Hash/encrypt user passwords in the database.
+* Limit staff to viewing only their own booked student notes.
