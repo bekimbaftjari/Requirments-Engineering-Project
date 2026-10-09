@@ -16,4 +16,5 @@ The college wants to replace this with a central online booking system to stream
 
 | Stakeholder  | Role                           | Key Needs                                                                        |
 | :-----------:| :-----------------------------:|:--------------------------------------------------------------------------------:|
-| **Students** | Primary users booking support | Easy online booking, clear service choices, live time slots, and email reminders. |
+| **Students** | Primary users booking support  | Easy online booking, clear service choices, live time slots, and email reminders.|
+| **Support Staff**|                             |                                                                                  |
