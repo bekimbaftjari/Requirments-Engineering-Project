@@ -18,7 +18,7 @@
 * Block off busy times or leave days.
 * View daily list of scheduled student appointments.
 * Search bookings by student name or ID.
-
+ 
 ### Emails & Links
 * Send confirmation email after a booking is made.
 * Send reminder email 24 hours before the meeting.
