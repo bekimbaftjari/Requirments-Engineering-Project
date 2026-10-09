@@ -21,4 +21,8 @@
 | **Department Leads**|Office managers               | Quick reports on service usage and booking trends                                |
 |**College IT**       |System admin                  | Basic login using student email IDs and safe handling of user data               | 
 
-
+## 1.4 System Goals 
+* **Goal   1:** Build a web page where students can book, change, or cancel appointments online anytime.
+* **Goal   2:** Save staff time by automatically updating availability when a meeting is booked.
+* **Goal   3:** Send email reminders to students before meetings to help reduce no-shows.
+* **Goal   4:** Make sure student details are kept private and the site is easy for everyone to navigate.
