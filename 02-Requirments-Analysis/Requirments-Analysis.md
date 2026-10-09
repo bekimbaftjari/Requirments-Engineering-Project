@@ -10,7 +10,7 @@
 * Pick a support service (Math Help, Writing, Careers).
 * View staff availability before selecting a slot.
 * Book a slot, pick in-person or online, and add a quick note.
-* Check past and upcoming meetings on a dashboard.
+* Check past and upcoming meetings on a dashboard. 
 * Cancel a booking up to 2 hours before the start time.
 
 ### Staff Options
