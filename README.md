@@ -11,8 +11,6 @@
 
 
 ## Overview
-This repo is for my Requirements Engineering project on Scenario B.
-It contains my work on designing a booking system for college student
-siosupports services like academic advice, careers, and learning support.
+This repo is for my Requirements Engineering project on Scenario B. It contains my work on designing a booking system for college student supports services like academic advice, careers, and learning support.
 
 
