@@ -6,8 +6,8 @@ who manage schedules using manual spreadsheets and notes.
 The college wants to replace this with a central online booking system to streamline appointment management
 
 ## 1.2 Core Issues
-**Service Confusion: Students often do not know which service or staff member to contact for their specific problems
-**No Live Availability View: Students cannot see open times online, which leads to slow back-and-forth emails
-**Heavy Admin Work:Staff spend too much time managing appointments and checking schedules manually
-**Hard to Manage Changes: Handling cancellations, rebooking, and unexpected schedule changes  that takes too much effort
-**Data Privacy Concerns: Student details and meeting reasons are stored in personal emails and spreadsheets rather than a central system
+**Service Confusion**: Students often do not know which service or staff member to contact for their specific problems
+**No Live Availability View**: Students cannot see open times online, which leads to slow back-and-forth emails
+**Heavy Admin Work**:Staff spend too much time managing appointments and checking schedules manually
+**Hard to Manage Changes**: Handling cancellations, rebooking, and unexpected schedule changes  that takes too much effort
+**Data Privacy Concerns**: Student details and meeting reasons are stored in personal emails and spreadsheets rather than a central system
