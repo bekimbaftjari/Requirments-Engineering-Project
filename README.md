@@ -6,3 +6,6 @@
 ## Student Details
 **Student Name:** Erin Baftjari  
 **Student ID:** T00270078
+**Module:** Requirements Engineering  Project Status:** Week 1 — Initial Discovery
+
+
