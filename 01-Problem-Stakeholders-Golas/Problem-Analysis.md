@@ -11,3 +11,9 @@ The college wants to replace this with a central online booking system to stream
 * **Heavy Admin Work:** Staff spend too much time managing appointments and checking schedules manually.
 * **Hard to Manage Changes:** Handling cancellations, rebooking, and unexpected schedule changes takes too much effort.
 * **Data Privacy Concerns:** Student details and meeting reasons are stored in personal emails and spreadsheets rather than a central system.
+
+## 1.3 Key Stakeholders
+
+| Stakeholder  | Role                           | Key Needs                                                                        |
+| :-----------:| :-----------------------------:|:--------------------------------------------------------------------------------:|
+| **Students** | Primary users booking support | Easy online booking, clear service choices, live time slots, and email reminders. |
