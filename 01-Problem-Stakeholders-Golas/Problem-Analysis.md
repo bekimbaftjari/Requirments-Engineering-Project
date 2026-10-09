@@ -30,6 +30,6 @@
 ## 1.5 Scope, Assumptions & Unknowns
 
 * **In Scope:** Booking screens, staff schedule manager, email reminders, and basic booking numbers for leads.
-* **Out of Scope:** Making a video call feature (online meetings will just use normal MS Teams links).
+* **Out of Scope:** Making a video call feature (online meetings)
 * **Assumptions:** Users will log in with their college student or staff accounts, and staff will add their own free hours.
 * **Unknowns:** How the system will connect with college calendars like Outlook.
