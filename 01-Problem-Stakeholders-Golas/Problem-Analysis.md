@@ -12,7 +12,7 @@
 * **Hard to Manage Changes:** Handling cancellations, rebooking, and unexpected schedule changes takes too much effort.
 * **Data Privacy Concerns:** Student details and meeting reasons are stored in personal emails and spreadsheets rather than a central system.
 
-## 1.3 Key Stakeholders
+## 1.3 Key Stakeholders 
 
 | Stakeholder         | Role                         | Key Needs                                                                        |
 | :------------------:|:----------------------------:|:--------------------------------------------------------------------------------:|
