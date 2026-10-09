@@ -14,4 +14,4 @@
 This repo is for my Requirements Engineering project on Scenario B. It contains my work on designing a booking system for college student supports services like academic advice, careers, and learning support.
 
 ## Folders
-* 01-Problem-Stakeholders-Goals: 
+* 01-Problem-Stakeholders-Goals:Problem Description,  stakeholders, project goals, and basic assumptions.
