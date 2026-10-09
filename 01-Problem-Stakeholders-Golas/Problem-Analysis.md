@@ -26,3 +26,5 @@
 * **Goal   2:** Save staff time by automatically updating availability when a meeting is booked.
 * **Goal   3:** Send email reminders to students before meetings to help reduce no-shows.
 * **Goal   4:** Make sure student details are kept private and the site is easy for everyone to navigate.
+
+## 1.5 Scope, Assumptions & Unknowns
